@@ -1,0 +1,5 @@
+homepage: "https://www.sensefuel.com/"
+documentation: "https://helpdesk.sensefuel.com/hc/en-us"
+versions:
+  - sha: 7882f1a598159a2a79ffb8e87627e1cce4347aaf
+    changeNotes: Initial release.
